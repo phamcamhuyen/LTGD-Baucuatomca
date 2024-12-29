@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\BauCuaTomCa1\\BauCuaTomCa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB9A7943-1C3F-434E-AE61-F527A3FBF9E1}|BauCuaTomCa\\BauCuaTomCa.csproj|c:\\users\\administrator\\documents\\zalo received files\\baucuatomca1\\baucuatomca\\baucuatomca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB9A7943-1C3F-434E-AE61-F527A3FBF9E1}|BauCuaTomCa\\BauCuaTomCa.csproj|solutionrelative:baucuatomca\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\BauCuaTomCa1\\BauCuaTomCa\\BauCuaTomCa\\Form1.cs",
+              "RelativeDocumentMoniker": "BauCuaTomCa\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\BauCuaTomCa1\\BauCuaTomCa\\BauCuaTomCa\\Form1.cs [Design]",
+              "RelativeToolTip": "BauCuaTomCa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:34:08.597Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

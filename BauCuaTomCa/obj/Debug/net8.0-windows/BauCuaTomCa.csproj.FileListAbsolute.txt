@@ -1,0 +1,152 @@
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form1.resources
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form2.resources
+C:\Users\vungu\source\repos\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form3.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form1.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form2.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form3.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form1.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form2.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Form3.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BauCuaTomCa1\BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormBCTC_80_huyen_n1_t3.resources
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormCK_80_Huyen_N1_T3.resources
+D:\source\repos\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormNaptien_80_Huyen_N1_t3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormBCTC_80_huyen_n1_t3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormCK_80_Huyen_N1_T3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormNaptien_80_Huyen_N1_t3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormBCTC_80_huyen_n1_t3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormCK_80_Huyen_N1_T3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormNaptien_80_Huyen_N1_t3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormBCTC_80_huyen_n1_t3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormCK_80_Huyen_N1_T3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormNaptien_80_Huyen_N1_t3.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+C:\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.exe
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.deps.json
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.runtimeconfig.json
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\bin\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormBCTC_80_huyen_n1_t3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormCK_80_Huyen_N1_T3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.FormNaptien_80_Huyen_N1_t3.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.Properties.Resources.resources
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.GenerateResource.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.GeneratedMSBuildEditorConfig.editorconfig
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfoInputs.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.AssemblyInfo.cs
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.csproj.CoreCompileInputs.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\refint\BauCuaTomCa.dll
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.pdb
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\BauCuaTomCa.genruntimeconfig.cache
+D:\80_Huyen_N1_T3_BauCuaTomCa\BauCuaTomCa\obj\Debug\net8.0-windows\ref\BauCuaTomCa.dll

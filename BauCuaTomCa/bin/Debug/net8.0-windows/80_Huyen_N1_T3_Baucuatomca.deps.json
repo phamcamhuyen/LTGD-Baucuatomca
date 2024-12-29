@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "80_Huyen_N1_T3_Baucuatomca/1.0.0": {
+        "runtime": {
+          "80_Huyen_N1_T3_Baucuatomca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "80_Huyen_N1_T3_Baucuatomca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
