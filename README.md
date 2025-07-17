@@ -1,4 +1,4 @@
-# 🎲 Game Bầu Cua Tôm Cá
+#  Game Bầu Cua Tôm Cá
 
 ##  Giới thiệu  
 **Bầu Cua Tôm Cá** là một trò chơi dân gian quen thuộc tại Việt Nam, được mô phỏng dưới dạng phần mềm máy tính.  
@@ -10,7 +10,7 @@ Dự án giúp mang lại trải nghiệm giải trí vui nhộn, đồng thời
 - Xây dựng giao diện trực quan, dễ sử dụng.  
 - Ứng dụng kiến thức lập trình để xử lý **random kết quả**, **tính toán thắng thua** và **quản lý số tiền đặt cược**.  
 
-## 🛠 Công nghệ sử dụng  
+##  Công nghệ sử dụng  
 - **Ngôn ngữ**: C#  
 - **IDE**: Visual Studio  
 - **Môi trường chạy**: Windows (WinForms hoặc Console App)  
